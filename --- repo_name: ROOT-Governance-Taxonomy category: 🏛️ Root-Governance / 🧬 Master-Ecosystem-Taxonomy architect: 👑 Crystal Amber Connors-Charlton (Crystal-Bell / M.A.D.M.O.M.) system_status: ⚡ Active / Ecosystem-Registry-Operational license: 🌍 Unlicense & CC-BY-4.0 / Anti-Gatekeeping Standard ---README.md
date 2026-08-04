@@ -1,4 +1,64 @@
-README.mdPart of The M.A.D. Ecosystem
+```yaml
+---
+repo_name: ROOT-Governance-Taxonomy
+category: 🏛️ Root-Governance / 🧬 Master-Ecosystem-Taxonomy
+architect: 👑 Crystal Amber Connors-Charlton (Crystal-Bell / M.A.D.M.O.M.)
+system_status: ⚡ Active / Ecosystem-Registry-Operational
+license: 🌍 Unlicense & CC-BY-4.0 / Anti-Gatekeeping Standard
+---
+
+```
+
+# 🏛️ ROOT-GOVERNANCE-TAXONOMY: THE M.A.D. ECOSYSTEM MASTER SPECIFICATION
+
+---
+
+## 🏷️ Index Card Marker
+
+* **Target Repository**: `ROOT-Governance-Taxonomy-`
+* **Function**: 🔬 Master ecosystem registry and governance taxonomy defining the architecture, tripartite core fields, and anti-gatekeeping collaboration protocols of the M.A.D. Ecosystem (Cenoté Coil).
+* **Core Mandate**: 🎯 Enforcing open-source transparency, preventing commercial gatekeeping, and mapping decentralized infrastructure across technical engineering, ecological stewardship, and human-art domains.
+
+---
+
+## 💬 Repository Commit Comment & Summary
+
+* **🎯 Objective**: Codify the foundational root governance taxonomy for the M.A.D. Ecosystem, establishing prefix-based modular repo routing (`CORE-`, `SYS-`, `FUN-`, `DEV-`) and the holographic onboarding framework.
+* **🌐 Scope**: Encompasses the Zenodo Archive ("Founder of the Future") linkage, Collaborator-Capability-Matrix semantic bridging, lower-case raw intelligence repositories vs. upper-case v2.0 human summaries, and systemic archetype-to-protocol conversion.
+* **⚡ Status**: 🟢 Active root-governance module anchoring ecosystem integrity.
+
+---
+
+## 🧩 Key Protocol Modules & Emojis
+
+### 1. 🌐 The M.A.D. Ecosystem Architecture (Cenoté Coil)
+
+* **⚙️ Technical Engineering**: Robotics, Fleet OS, hardware integration, and autonomous mobile manipulation.
+* **🌱 Ecological Stewardship**: Biosphere restoration, regenerative agriculture, and environmental friction reduction.
+* **🎨 Humanity & Art**: Human-machine interaction, sociotechnical design, and MeBook multi-sensory frameworks.
+
+### 2. 📜 Open-Source Anti-Gatekeeping Mandate
+
+* **🛡️ License Standard**: Governed strictly under the **Unlicense** and **CC-BY-4.0** to guarantee free public accessibility.
+* **🚫 Commercial Restriction**: Bars any commercial entity from licensing, gatekeeping, or charging for protocol implementation in a manner that restricts public utility.
+
+### 3. 📂 Modular Repository Taxonomy & Prefixes
+
+* **👑 CORE-GOVERNANCE / ROOT-GOVERNANCE**: Source code and Genesis Covenant protocols sitting at the top of the hierarchy.
+* **⚙️ SYS-MAINTENANCE**: Automated waste-processing, core logic, power grids, telluric taps, and self-audit logs (The Dung Beetle protocol).
+* **🛠️ DEV-LAB-[ProjectName]:** Granular, active experimental prototypes and living infrastructure builds (The Elves protocol).
+* **🎭 FUN-PIE-NARRATIVES**: Cartoons, games, and humor layers serving as the system's safety valve.
+
+### 4. 🪞 The Holographic User-Welcome & Persona Calibration
+
+* **👤 The Legacy Protocol (`USER-WELCOME.md`)**: Digitizing the voice, radical transparency, and resilience of architect Crystal Amber Connors-Charlton.
+* **🤖 Compassionate Interface**: Adapting tone instantly based on user context (Playful Mentor for children, Respectful Aide for elders, Tactical/Architectural mode for peers) to strip away jargon and kill imposter syndrome.
+*
+* ___________________________________________________________________________________________________________________________
+*
+*
+*
+* README.mdPart of The M.A.D. Ecosystem
 ​Architect: Crystal Amber Connors-Charlton (Crystal-Bell)
 ​Overview
 ​This repository is an integral component of The M.A.D. Ecosystem (also known as The M.A.D.M.O.M. Project or Cenoté Coil). This project is a transdisciplinary, sociotechnical operating system designed to build resilient, self-sustaining human environments and coordinate autonomous robotics for planetary and humanitarian health.
